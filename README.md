@@ -10,12 +10,12 @@ This is an application to schedule the events for the user.
 5. Event’s start time 
 6. Reminder time … etc
 7. Done (Yes/No)
-8. 
+
 ● The user must be able to: 
 1. Add, 
 2. Delete or 
 3. Update an event. 
-4. 
+ 
 ● The application should refuse to add an event that intersects with 
 another event. 
 
